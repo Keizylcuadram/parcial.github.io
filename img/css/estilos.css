@@ -1,0 +1,81 @@
+body
+{
+background-image: url("https://img.freepik.com/premium-vector/dark-background-with-cloth-texture_448617-61.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center ;
+background-attachment:fixed;
+}
+h1
+{
+    background-color:grey;
+    color: white;
+    text-align:center;    
+    font-size: 70px;
+    font-style:Times New Roman;
+}
+h2
+{
+    color: white;
+    text-align: center;    
+    font-size:50px;
+    font-style:Times New Roman;
+}
+.definicion
+{
+    background-color:mediumorchid;
+    padding:18px 20px;
+    color:#fff;
+    border-radius: 10px;
+    
+}
+.elementos
+{
+    background-color:mediumorchid;
+    padding:18px 20px;
+    color:#fff;
+    border-radius: 10px;
+}
+.componentes
+{
+    background-color:mediumorchid;
+    padding:18px 20px;
+    color:#fff;
+    border-radius: 10px;
+}
+.tipos
+{
+    background-color:mediumorchid;
+    padding:18px 20px;
+    color:#fff;
+    border-radius: 10px;
+}
+
+h3
+{
+    font-style: Times New Roman;
+    color: white;
+    text-align:left
+}
+p
+{
+    font-size:18px;
+    font-style: Times New Roman;
+    color: white;
+    text-align:justify 
+}
+ol
+{
+    font-size:18px;
+    font-style: Times New Roman;
+    color: white;
+    text-align:left 
+}
+.prueba
+{
+    background-color:darkgray;
+    padding:18px 20px;
+    color:#fff;
+    border-radius: 10px;
+    font-style: italic;
+}
